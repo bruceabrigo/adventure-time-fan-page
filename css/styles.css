@@ -74,3 +74,38 @@ body {
 h2 {
   font-size: 25px;
 }
+#bio, #status, #shutUpJake {
+  margin: 15px;
+  height: 40px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+#closeContent1 {
+  cursor: pointer;
+  margin: 15px;
+}
+
+#closeContent1:hover {
+  color: rgba(0, 0, 0, 0.5)
+}
+
+#closeContent2 {
+  cursor: pointer;
+  margin: 15px;
+}
+
+#closeContent2:hover {
+  color: rgba(0, 0, 0, 0.5)
+}
+
+#closeContent3 {
+  cursor: pointer;
+  margin: 15px;
+}
+
+#closeContent3:hover {
+  color: rgba(0, 0, 0, 0.5)
+}
+
+
